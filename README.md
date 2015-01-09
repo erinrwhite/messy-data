@@ -11,6 +11,11 @@ Materials for the Messy Data workshop at the Library Collective 2015
 
 ## copresenters
 
- - Heather Wilson, Ferrum College: cleaning up and consolidating statistical e-resource data with web tools
- - Greg Schmidt, Auburn University Libraries: wrangling messy metadata for a digital newspaper collection
- - Teresa Slobuski, SJSU (2 slots): Excel protips and hacking tabular data from Gimlet
+ - 10 minutes: Heather Wilson, Ferrum College: cleaning up and consolidating statistical e-resource data with web tools
+ - 10 minutes: Greg Schmidt, Auburn University Libraries: wrangling messy metadata for a digital newspaper collection
+ - 20 minutes: Teresa Slobuski, SJSU (2 slots): Excel protips and hacking tabular data from Gimlet
+
+## outline
+
+ - openrefine/google refine
+     + 
